@@ -1,0 +1,18 @@
+{
+	"name": "phig/phig",
+	"type": "library",
+	"description": "PHP Interoperability Group",
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Jan Pecha",
+			"homepage": "https://www.janpecha.cz/"
+		}
+	],
+	"require": {
+		"php": ">=5.6.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
