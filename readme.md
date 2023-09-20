@@ -24,6 +24,7 @@ PHIG requires PHP 5.6.0 or later.
 * HtmlIcons
 * HtmlString
 * RandomNumberGenerator
+* Url
 
 
 ------------------------------
