@@ -22,6 +22,7 @@ PHIG requires PHP 5.6.0 or later.
 ## List of interfaces
 
 * BreadcrumbItem
+* DateTimeFactory
 * HtmlIcons
 * HtmlString
 * RandomNumberGenerator
