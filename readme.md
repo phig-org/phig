@@ -16,7 +16,7 @@ PHP Interoperability Group
 composer require phig/phig
 ```
 
-PHIG requires PHP 5.6.0 or later.
+PHIG requires PHP 8.0 or later.
 
 
 ## List of interfaces
